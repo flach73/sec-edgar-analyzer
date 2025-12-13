@@ -127,12 +127,7 @@ export default function RootLayout({
             <div className="mt-8 pt-6 border-t border-gray-100 text-center">
               <p className="text-xs text-gray-400">
                 Built by{' '}
-                <a 
-                  href="https://tfbeglobal.com" 
-                  className="text-blue-600 hover:underline"
-                >
-                  TFBE Global
-                </a>
+                <span className="text-gray-600 font-medium">Flach</span>
                 {' '}• Data provided by SEC EDGAR
               </p>
             </div>
