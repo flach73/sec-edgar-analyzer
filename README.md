@@ -156,3 +156,4 @@ MIT
 
 - Data from [SEC EDGAR](https://www.sec.gov/edgar)
 - Built with [Next.js](https://nextjs.org) and [Supabase](https://supabase.com)
+ 
