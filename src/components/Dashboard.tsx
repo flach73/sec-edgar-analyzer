@@ -443,7 +443,7 @@ export default function Dashboard({ companies }: DashboardProps) {
                 />
               </svg>
               <h3 className="mt-4 text-lg font-medium text-gray-900">
-                No companies match "{searchQuery}"
+                No companies match &quot;{searchQuery}&quot;
               </h3>
               <p className="mt-2 text-gray-500">
                 Try searching by ticker symbol, company name, or sector.
