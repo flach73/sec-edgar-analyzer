@@ -1,7 +1,7 @@
 import { supabase } from '@/lib/supabase';
 import Dashboard from '@/components/Dashboard';
 
-export const revalidate = 3600; // Revalidate every hour
+export const revalidate = 0; // Force dynamic - always fetch fresh
 
 async function getCompaniesWithFilings() {
   // Get companies
